@@ -21,6 +21,7 @@ We officially support the last two versions of every major browser. Specifically
 ### Browser Support
 
 IE9 | IE10 | IE11 | Chrome | Opera | Firefox | Safari | Chrome (Android) | Mobile Safari
-B | A | A | A | A | A | A | A | A
+--- | ---- | ---- | ------ | ----- | ------- | ------ | ---------------- | -------------
+B   | A    | A    | A      | A     | A       | A      | A                | A
 
 A-grade browsers are fully supported. B-grade browsers will gracefully degrade to our CSS-only experience.
