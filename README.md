@@ -1,5 +1,5 @@
-## [BalmUI](http://balmjs.com/ui-vue/)
-> [Material Components](https://material.io/components/) for Vue@2.1.0+
+## [BalmUI](http://material.balmjs.com/)
+> [Material Components](https://material.io/components/) for Vue@2
 
 ### Browser Support
 
@@ -15,8 +15,8 @@ We officially support the last two versions of every major browser. Specifically
 
 ---
 
-## [BalmUI lite](http://balmjs.com/ui-vue-lite/)
-> [Material Design Lite](http://getmdl.io/) for Vue@2.1.0+
+## [BalmUI lite](http://mdl.balmjs.com/)
+> [Material Design Lite](http://getmdl.io/) for Vue@2
 
 ### Browser Support
 
