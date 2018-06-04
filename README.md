@@ -1,6 +1,6 @@
-## [BalmUI Lite](http://mdl.balmjs.com/) (NOW Recommended)
+## [BalmUI Lite](https://mdl.balmjs.com/) (NOW Recommended)
 
-> [Material Design Lite](http://getmdl.io/) for Vue@2
+> [Material Design Lite](https://getmdl.io/) for Vue@2
 
 ### Browser Support
 
@@ -12,7 +12,7 @@ A-grade browsers are fully supported. B-grade browsers will gracefully degrade t
 
 ---
 
-## [BalmUI](http://material.balmjs.com/) (Next Version)
+## [BalmUI](https://material.balmjs.com/) (Next Version)
 
 > [Material Components](https://material.io/components/) for Vue@2
 
