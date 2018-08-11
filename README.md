@@ -1,6 +1,22 @@
-## [BalmUI Lite](https://mdl.balmjs.com/) (NOW Recommended)
+## [BalmUI](https://material.balmjs.com/) (Recommended)
 
-> [Material Design Lite](https://getmdl.io/) for Vue@2
+> Next Generation [Material UI](https://material.io/components/) for Vue.js
+
+### Browser Support
+
+We officially support the last two versions of every major browser. Specifically, we test on the following browsers:
+
+- **Chrome** on Android, Windows, macOS, and Linux
+- **Firefox** on Windows, macOS, and Linux
+- **Safari** on iOS and macOS
+- **Edge** on Windows
+- **IE** 11 on Windows
+
+---
+
+## [BalmUI Lite](https://mdl.balmjs.com/) (Outdated)
+
+> [Material Design Lite](https://getmdl.io/) for Vue.js
 
 ### Browser Support
 
@@ -9,21 +25,3 @@
 | B   | A    | A    | A      | A     | A       | A      | A                | A             |
 
 A-grade browsers are fully supported. B-grade browsers will gracefully degrade to our CSS-only experience.
-
----
-
-## [BalmUI](https://material.balmjs.com/) (Next Version)
-
-> [Material Components](https://material.io/components/) for Vue@2
-
-### Browser Support
-
-We officially support the last two versions of every major browser. Specifically, we test on the following browsers:
-
-* Chrome
-* Safari
-* Firefox
-* IE 11/Edge
-* Opera
-* Mobile Safari
-* Chrome on Android
